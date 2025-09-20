@@ -13,7 +13,7 @@ int main(){
     printf("substraction = %d\n",substraction );
     printf("Multiplication = %d\n",multiplication );
     printf("remainder = %d\n",remainder);
-    return 0;
+return 0;
 }
 
 
@@ -38,7 +38,7 @@ int main(){
     perimeter = 4 * x;
     printf("Area of square = %f", area);
     printf("\nPerimeter of square = %f", perimeter);
-    return 0;
+return 0;
 }
 
 
@@ -54,4 +54,4 @@ int main(){
     printf("The distance Between Two point : %f",distance);
 return 0;
 }
-}
+
